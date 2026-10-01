@@ -8,12 +8,21 @@ Diseño y construyo sistemas full stack de punta a punta, con foco en backend, a
 
 ### 🛠️ Stack
 - **Lenguajes:** TypeScript, JavaScript
-- **Backend:** Node.js, NestJS, Prisma, PostgreSQL
-- **Frontend:** React, Vite
-- **Arquitectura:** Monolitos modulares, multitenancy, monorepos con Nx
-- **DevOps:** GitHub Actions, CI/CD, GitHub Pages
+- **Backend:** Node.js, NestJS, Prisma, PostgreSQL, BullMQ, Valkey
+- **Frontend y mobile:** React, Vite, Expo (React Native)
+- **Arquitectura:** Monolitos modulares, DDD, CQRS, multitenancy, offline-first, monorepos con Nx
+- **DevOps:** Docker, GitHub Actions, CI/CD, Render, Neon, GitHub Pages
 
-### 🚀 Proyectos destacados
+### ⭐ Proyecto principal: [Clerity](https://app.clerity.cl/)
+Plataforma SaaS multitenant para gestión de organizaciones (identidad, secretaría, tesorería y documentos), diseñada y construida de punta a punta. *Beta privada; código privado.*
+
+- **Web:** React 19 + Vite, un único shell con módulos cargados bajo demanda.
+- **API:** monolito modular en NestJS con CQRS y límites de dominio (DDD); cada módulo con su propia base PostgreSQL vía Prisma.
+- **Mobile:** Expo con SQLite y sincronización offline idempotente.
+- **Seguridad:** aislamiento por tenant, sesiones JWT firmadas y doble factor.
+- **Calidad y operación:** monorepo Nx, tests unitarios, de integración y e2e con Jest, ADRs documentados, releases automatizados y deploy continuo.
+
+### 🚀 Otros proyectos
 | Proyecto | Descripción | Demo |
 |---|---|---|
 | [portfolio](https://github.com/ndsg24/portfolio) | Portafolio bilingüe con React, TypeScript, i18next y Framer Motion | [Ver sitio](https://ndsg24.github.io/portfolio/) |
