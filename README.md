@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Nelson Daniel Silva Gutiérrez 👋
 
-<!--
-**ndsg24/ndsg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer · Tech Lead** en Concepción, Chile.
 
-Here are some ideas to get you started:
+Diseño y construyo sistemas full stack de punta a punta, con foco en backend, arquitectura de software y en liderar equipos técnicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portafolio:** [ndsg24.github.io/portfolio](https://ndsg24.github.io/portfolio/)
+
+### 🛠️ Stack
+- **Lenguajes:** TypeScript, JavaScript
+- **Backend:** Node.js, NestJS, Prisma, PostgreSQL
+- **Frontend:** React, Vite
+- **Arquitectura:** Monolitos modulares, multitenancy, monorepos con Nx
+- **DevOps:** GitHub Actions, CI/CD, GitHub Pages
+
+### 🚀 Proyectos destacados
+| Proyecto | Descripción | Demo |
+|---|---|---|
+| [portfolio](https://github.com/ndsg24/portfolio) | Portafolio bilingüe con React, TypeScript, i18next y Framer Motion | [Ver sitio](https://ndsg24.github.io/portfolio/) |
+| [legado-banqueteria](https://github.com/ndsg24/legado-banqueteria) | Sitio web para un negocio real: SEO, responsive y deploy continuo | [Ver sitio](https://ndsg24.github.io/legado-banqueteria/) |
+
+### 💼 Disponibilidad
+Abierto a oportunidades como Senior Engineer o Tech Lead en Chile, Brasil, España, Portugal o remoto.
