@@ -84,7 +84,7 @@ Diseño y construyo sistemas **full stack de punta a punta**, con foco en **back
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
-| [**portfolio**](https://github.com/ndsg24/portfolio) | Portafolio bilingüe (ES/EN) | <img src="https://skillicons.dev/icons?i=react,ts,vite" height="24" /> | [Ver sitio ↗](https://ndsg24.github.io/portfolio/) |
+| [**portfolio**](https://github.com/ndsg24/portfolio) | Portafolio multilenguaje (ES/EN/PT) | <img src="https://skillicons.dev/icons?i=react,ts,vite" height="24" /> | [Ver sitio ↗](https://ndsg24.github.io/portfolio/) |
 | [**legado-banqueteria**](https://github.com/ndsg24/legado-banqueteria) | Sitio web para un negocio real: SEO, responsive y deploy continuo | <img src="https://skillicons.dev/icons?i=react,ts,vite" height="24" /> | [Ver sitio ↗](https://ndsg24.github.io/legado-banqueteria/) |
 
 ---
